@@ -1,2 +1,0 @@
-# Pandas
-basic of pandas
